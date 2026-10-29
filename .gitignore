@@ -1,0 +1,6 @@
+.env
+node_modules
+samples.local/
+samples.local.json
+output.local.json
+.DS_Store

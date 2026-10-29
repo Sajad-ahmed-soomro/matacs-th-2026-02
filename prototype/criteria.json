@@ -1,0 +1,7 @@
+{
+  "version": "v1",
+  "category": "Commercial Solar Installation",
+  "budgetCeilingCad": 260000,
+  "maxWeeks": 16,
+  "weights": { "experience": 30, "price": 25, "timeline": 15, "warranty": 15, "team": 15 }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "proposal-triage-prototype",
+  "version": "1.0.0",
+  "description": "Design prototype: AI extraction + deterministic scoring for proposal triage",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env src/index.js",
+    "mock": "node src/index.js --mock",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
