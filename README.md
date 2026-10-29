@@ -1,8 +1,11 @@
 # MATACS-TH-2026-02: AI Proposal Triage Design
 
-**Name:** <your full name>
+**Name:** Sajad Ahmed
 **Reference:** MATACS-TH-2026-02
-**Time spent:** <actual time, e.g. ~3h including prototype>
+**Time spent:** ~2 hours total
+- Core deliverables (design, write-up, prompts, diagram, ranking): ~1 h
+- Optional prototype (Node.js, Gemini, tests): ~0.5 h
+- Git/GitHub setup and fixing a blocked push: ~0.5 h
 
 ## Files
 - [WRITEUP.md](WRITEUP.md)
